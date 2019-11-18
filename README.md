@@ -1,5 +1,5 @@
 # cw
-kaiwanTECH training courseware
+kaiwanTECH training [encrypted] courseware
 
 Important Notice : Courseware - Legal
 
